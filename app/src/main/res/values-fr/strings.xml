@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TLGE2 Friend Code</string>
+    <string name="pseudonym">Pseudonyme</string>
+    <string name="generate_codes">Générer les codes ami</string>
+    <string name="friend_code_normal">Code ami (mode Normal)</string>
+    <string name="friend_code_hard">Code ami (mode Difficile)</string>
+    <string name="copy_normal">Copier code (Normal)</string>
+    <string name="copy_hard">Copier code (Difficile)</string>
+</resources>
